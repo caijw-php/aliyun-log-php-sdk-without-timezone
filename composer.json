@@ -31,6 +31,6 @@
       "Log_Autoload.php"
     ]
   },
-  "name": "alibabacloud/aliyun-log-php-sdk",
+  "name": "caijw-php/aliyun-log-php-sdk-without-timezone",
   "version": "0.6.3"
 }
